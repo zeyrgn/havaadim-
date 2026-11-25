@@ -1,0 +1,8 @@
+build/
+dist/
+nbproject/private/
+*.class
+out/
+.DS_Store
+.idea/
+.vscode/
